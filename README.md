@@ -1,2 +1,1 @@
-# chai
-study
+Welcome to github
